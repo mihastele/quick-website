@@ -3,3 +3,27 @@
   padding: 0;
   font-size: 16px;
 }
+
+.banner-bg {
+  display: block;
+  width: 100vw;
+  height: 14rem;
+  background-color: #BFDB58;
+  clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 79%);
+}
+
+.floating-pic {
+  position: absolute;
+  top: 7rem;
+  width: 100vw;
+  height: 7rem;
+  text-align: center;
+}
+
+
+.floating-pic img{
+  display: inline-block;
+  height: 7rem;
+  width: 7rem;
+  z-index: 5;
+}

@@ -1,5 +1,6 @@
 # quick-website
 
+hack tip: write doc and press enkter on the doc suggestion and VSC will automatically generate HTML boilerplate :)
 
 colors from https://color.adobe.com/create/color-wheel:
 #13468F
