@@ -29,3 +29,10 @@
 
   border-radius: 50%;
 }
+
+.content-container {
+  display: inline-block;
+  height: 300px; /*test*/
+  width: 100vw;
+  background-color: #77A1DC;
+}
