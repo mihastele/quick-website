@@ -12,6 +12,13 @@
   clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 79%);
 }
 
+.banner-bg p {
+  padding-top: 32px;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+
 .floating-pic {
   position: absolute;
   top: 7rem;
@@ -35,4 +42,26 @@
   height: 300px; /*test*/
   width: 100vw;
   background-color: #77A1DC;
+  padding: 0 2rem;
+  padding-top: 86px;
+}
+
+.block-container {
+  border:  #BFDB58  5px solid;
+  background-color: #BFDB58;
+  display: inline-block;
+}
+.container-element {
+  display: inline-block;
+  display:  110px;
+}
+
+.banner-img {
+  display: inline-block;
+}
+
+.banner-img img {
+  display: inline-block;
+  height: 4rem;
+  width: 4rem;
 }
